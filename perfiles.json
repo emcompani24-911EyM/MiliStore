@@ -1,7 +1,1 @@
-[
- {
- "rol": "Admin",
- "usuario": "emcompani24-911EyM",
- "nombrePublico": "Administrador Principal"
- }
-]
+[{"nombrePublico":"Administrador Principal","usuario":"emcompani24-911EyM","rol":"Admin"},{"mensaje":"Bienvenidos a la tienda de accesorios del Jieshuo, Aquí se subirán complementos, herramientas y temas de sonido, así como sus respectivas actualizaciones.","nombrePublico":"accesorios del Jieshuo","usuario":"Tusaccesorios","rol":"admin"}]
